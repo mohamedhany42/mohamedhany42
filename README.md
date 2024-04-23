@@ -20,6 +20,6 @@ I'm Mohamed hany, a 20 years old electronics and communication junior student fr
 
 
 ## Contact
-- [mohamed-hany-7a807125b/][(https://www.linkedin.com/in/mohamed-hany-7a807125b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBpvNJfRxTfqhPDOwpkDU8w%3D%3D))
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](./) on Discord
+- [linkedin][(https://www.linkedin.com/in/mohamed-hany-7a807125b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBpvNJfRxTfqhPDOwpkDU8w%3D%3D))
+- [gmail](https://gmail.com/hany95446@gmail.com) 
+
