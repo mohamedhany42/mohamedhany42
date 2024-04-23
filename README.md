@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/mohamedhany/mohamedhany/master/name.svg" alt="mohamed hany" />
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Mohamed Hany" />
 </h1>
+
 
 ## Hey! 👋
 I'm Mohamed hany, a 20 years old electronics and communication junior student from egypt.
