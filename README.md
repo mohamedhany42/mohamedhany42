@@ -7,9 +7,10 @@
 <h2 style="color:#3498DB;">👋 About Me</h2>
 
 <p style="background-color:#f0f8ff; padding:10px; border-radius:10px;">
-  I'm <strong>Mohamed Hany</strong>, a 20-year-old cybersecurity and penetration testing student from Egypt 🌍. I’m currently:
+  I'm <strong>Mohamed Hany</strong>, a 21-year-old cybersecurity and penetration testing student from Egypt 🌍. I’m currently:
   <ul>
-    <li style="color:#2ECC71;">Technical Support Manager at IEEE RAS Helwan Student Branch</li>
+    <li style="color:#2ECC71;">branch  Manager at Big Hero Robotics Academy</li>
+       <li style="color:#2ECC71;">Senior 1 student at department of communication and electronics at faculty of engineering,helwan university</li>
     <li>Learning ethical hacking, vulnerability assessment, and advanced cybersecurity techniques</li>
     <li style="color:#F39C12;">Passionate about solving puzzles and exploring cutting-edge technologies</li>
   </ul>
