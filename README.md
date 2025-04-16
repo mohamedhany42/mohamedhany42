@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPCfmdU9W6JNZb5g7v9kU3uQjSR68kFcZZRr_nCIP6t4jZFiiO" alt="Cybersecurity Background" width="100%">
+  <img src="https://media.istockphoto.com/id/1420039900/photo/cyber-security-ransomware-email-phishing-encrypted-technology-digital-information-protected.jpg?s=1024x1024&w=is&k=20&c=IF7urJ01pDieoE-QDg-hrMNL82vG3LCYnYjG2yGDN1o=" alt="Cybersecurity Background" width="100%">
 </p>
 
 <h1 align="center" style="color:#4CAF50;">Mohamed Hany</h1>
