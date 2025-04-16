@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Cybersecurity Background" width="100%">
+  <img src="https://img.freepik.com/premium-photo/4k-cyber-security-wallpaper_926208-22417.jpg?w=826" alt="Cybersecurity Background" width="100%">
 </p>
 
 <h1 align="center" style="color:#4CAF50;">Mohamed Hany</h1>
