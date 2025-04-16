@@ -18,16 +18,16 @@
 
 <h2 style="color:#F1C40F;">🔧 Skills</h2>
 <ul>
-  <li>🖥️ <strong>Programming:</strong> Python, C, C++, JavaScript, SQL, HTML</li>
-  <li>⚙️ <strong>Tools:</strong> Kali Linux, Metasploit, Wireshark, Nmap, Burp Suite, Nessus</li>
-  <li>🔒 <strong>Cybersecurity:</strong> Network Security, Vulnerability Assessment, Penetration Testing, Cryptography</li>
-  <li>🌟 <strong>Other Skills:</strong> PCB Design, Embedded Systems, MATLAB, SolidWorks</li>
+  <li>🖥️ <strong>Programming:</strong> Python, C, C++, SQL </li>
+  <li>⚙️ <strong>Tools:</strong> Kali Linux, Metasploit, Wireshark, Nmap, Burp Suite, Nessus, Hydra,AVR MC interfacing</li>
+  <li>🔒 <strong>Cybersecurity:</strong> Network Security, Vulnerability Assessment, Penetration Testing, Cryptography, ACL, SQL injection,Network scaning</li>
+  <li>🌟 <strong>Other Skills:</strong> PCB layout Design && manufacture, Embedded Systems(AVR,ESP,ARDUINO), MATLAB, labVIEW, OMNET++, GNU RADIO</li>
 </ul>
 
 <h2 style="color:#E74C3C;">📫 Contact Me</h2>
 
 <p>
-  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mohamed-hany-7a807125b/" style="color:#1DA1F2;">Mohamed Hany</a><br>
+  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mohamedhany6/" style="color:#1DA1F2;">Mohamed Hany</a><br>
   <strong>Email:</strong> <a href="mailto:hany95446@gmail.com" style="color:#E74C3C;">hany95446@gmail.com</a>
 </p>
 
