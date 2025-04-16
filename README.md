@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="YOUR_IMAGE_URL_HERE" alt="Cybersecurity Background" width="100%">
+</p>
+
 <h1 align="center" style="color:#4CAF50;">Mohamed Hany</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-Student-blue" alt="Cybersecurity Badge">
