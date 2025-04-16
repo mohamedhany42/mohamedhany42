@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pngtree.com%2Ffreebackground%2Fmusic-room-digital-art-wallpapers---romm-backgrounds_2338154.html&psig=AOvVaw32rC8BPpgaUUmVZUNWFaaY&ust=1744901350617000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJD4sZzm3IwDFQAAAAAdAAAAABAI" alt="Cybersecurity Background" width="100%">
+  <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPCfmdU9W6JNZb5g7v9kU3uQjSR68kFcZZRr_nCIP6t4jZFiiO" alt="Cybersecurity Background" width="100%">
 </p>
 
 <h1 align="center" style="color:#4CAF50;">Mohamed Hany</h1>
